@@ -1,0 +1,92 @@
+h5 {
+  color: white;
+  background-color: black;
+}
+
+.rojito {
+  background-color: rgb(222, 14, 52);
+}
+
+.red {
+  background-color: red;
+}
+
+.form-check-label {
+  color: white;
+}
+
+.form-label {
+  color: white;
+}
+
+.carousel {
+  margin: auto;
+  width: 60%;
+}
+
+#contacto {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+#donbosco {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+#emailHelp {
+  color: white;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.somos {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+
+element.style {
+}
+@media (min-width: 768px)
+header {
+    min-height: 100%;
+}
+header {
+    position: relative;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/header.jpg);
+    height: 100vh;
+    text-align: center;
+    color: white;
+    
+}
+
+header .header-content .header-content-inner h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h1 {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+header .header-content {
+  position: relative;
+  text-align: center;
+  padding: 100px 15px 100px;
+  width: 100%;
+}  
+
